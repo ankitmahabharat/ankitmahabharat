@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+ANKIT+MAHABHARAT;MERN+Full+Stack+Developer;B.Tech+Student;AI+Enthusiast" alt="Typing SVG" />
-</div>
+  <h1>Hi, I'm ANKIT MAHABHARAT </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=MERN+Full+Stack+Developer;B.Tech+Student;AI+Enthusiast" alt="Typing SVG" />
+  </div>
 
 <div align="center">
   <p>Building scalable web applications and diving deep into the world of Artificial Intelligence. Always learning, always coding.</p>
