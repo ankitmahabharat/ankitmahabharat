@@ -52,8 +52,9 @@
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitmahabharat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Your GitHub Stats" width="48%" /> -->
+  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmahabharat&theme=tokyonight&hide_border=true&background=0D1117" alt="Your GitHub Streak" width="48%" />
-</div>
+   </div>
 
 ---
 
