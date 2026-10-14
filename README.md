@@ -65,7 +65,7 @@ I'm a B.Tech Computer Science student specializing in **Artificial Intelligence 
 
 ## 🚀 Featured Projects
 
-### 1. CodeBook — AI-Powered Learning Platform
+### 1. CodeBook — AI-Powered Learning Platform (Under Construction)
 
 **[View Repository →](https://github.com/ankitmahabharat/CodeBook)**
 
