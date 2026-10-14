@@ -77,7 +77,7 @@ An ambitious platform designed to help university students learn software engine
 - 👨‍💻 Long-term vision includes live coding classrooms, skill analytics, and developer profiles.
 
 **Tech:** Java · Spring Boot · Spring Security · PostgreSQL · React
-
+<!--
 ### 2. AI-Based Port Management System
 
 An academic project focused on applying AI and software engineering to port management.
@@ -97,7 +97,7 @@ A project focused on connecting developer profiles and projects through a web ap
 - 🤝 Follow and following functionality as part of the platform vision.
 
 **Tech:** Web Development · REST APIs · Database Design
-
+-->
 ---
 
 ## 📈 What I'm Working On
