@@ -117,9 +117,7 @@ A project focused on connecting developer profiles and projects through a web ap
   <img src="https://github-readme-stats.vercel.app/api?username=ankitmahabharat&show_icons=true&theme=github_dark&hide_border=true" alt="Ankit's GitHub statistics" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmahabharat&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</p>
+
 
 <p>
   <img src="https://streak-stats.demolab.com?user=ankitmahabharat&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
