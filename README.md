@@ -9,7 +9,9 @@ B.Tech Computer Science student specializing in Artificial Intelligence and Mach
 <a href="https://www.linkedin.com/in/ankit-mahabharat-7730b7134/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
 <a href="https://github.com/ankitmahabharat"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub"/></a>
 <a href="https://leetcode.com/u/Ankit_Mahabharat/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="mailto:av700600@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=av700600@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 </div>
 
