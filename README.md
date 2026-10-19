@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Ankit Mahabharat
 
@@ -6,12 +6,11 @@
 
 B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning, focused on building backend systems, designing reliable APIs, and developing practical software applications.
 
-<a href="https://www.linkedin.com/in/ankit-mahabharat-7730b7134/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/ankit-mahabharat-7730b713/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
 <a href="https://github.com/ankitmahabharat"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub"/></a>
 <a href="https://leetcode.com/u/Ankit_Mahabharat/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=av700600@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+<a href="portfolio-khaki-five-90.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=av700600@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </div>
 
@@ -71,43 +70,24 @@ I enjoy understanding how software systems work under the hood, from API design 
 
 ### 1. CodeBook — AI-Powered Learning Platform
 
-[**Repository →**](https://github.com/ankitmahabharat/CodeBook)
+**[Repository →](https://github.com/ankitmahabharat/CodeBook)**
 
 A work-in-progress platform designed to help university students learn software engineering through collaborative development and AI-assisted learning.
 
 **Engineering focus**
+
 - Backend development using Java and Spring Boot.
 - Authentication and authorization using Spring Security and JWT.
 - Relational database modeling using Spring Data JPA and PostgreSQL.
 - REST API design and application architecture.
 
 **Planned direction**
+
 - Collaborative coding and live learning sessions.
 - Developer profiles and skill analytics.
 - AI-assisted learning experiences.
 
 **Stack:** Java · Spring Boot · Spring Security · Spring Data JPA · PostgreSQL · React
-<!--
-### 2. AI-Based Port Management System
-
-An academic project exploring the application of AI-based video analysis and web development to port management workflows.
-
-- Backend development with Spring Boot.
-- Frontend development with React and Vite.
-- Exploring video-analysis-based automation for port-related operations.
-
-**Stack:** Java · Spring Boot · React · Vite · AI/ML
-
-### 3. HotDrop — Developer Project Platform
-
-A web application concept focused on developer profiles, project discovery, and social interaction.
-
-- Developer profile discovery.
-- Project links and API integration.
-- Follow/following functionality.
-
-**Stack:** Web Development · REST APIs · Database Design
--->
 
 ---
 
@@ -132,6 +112,29 @@ I aim to build software that is understandable, maintainable, and secure.
 - Understanding authentication flows and backend security.
 - Exploring practical AI/ML integrations in software applications.
 
+---
+
+## LeetCode Activity
+
+LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Ankit_Mahabharat/">
+<img src="https://img.shields.io/badge/LeetCode-Ankit_Mahabharat-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+</a>
+
+</div>
+
+
+
+</div>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Ankit_Mahabharat?theme=dark&font=baloo&ext=heatmap" width="500" alt="LeetCode Activity"/>
+
+</div>
 ---
 
 ## GitHub Activity
