@@ -146,11 +146,14 @@ LeetCode
 <td width="50%" align="center" valign="top">
 
 **GitHub Statistics**
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=ankitmahabharat&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+
 
 </td>
 <td width="50%" align="center" valign="top">
+-->
 
 **Contribution Streak**
 
